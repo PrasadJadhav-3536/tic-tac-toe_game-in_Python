@@ -1,0 +1,83 @@
+----------- WELCOME TO TIC TAC TOE ------------
+
+
+    │    │     
+────┼────┼────
+    │    │     
+────┼────┼────
+    │    │     
+
+Player 1 : Shubham
+Player 2 : Ankit
+
+-------- Instructions ---------
+-> Shubham you will using X
+-> Ankit you will using 0
+-> Turn starts from Shubham
+-> Potisions are like :-
+  1 │  2 │ 3  
+────┼────┼────
+  4 │ 5  │ 6  
+────┼────┼────
+  7 │ 8  │ 9  
+-> press S to start the game
+s
+
+this is ur turn Shubham
+Please Enter postion : 1
+ x  │    │     
+────┼────┼────
+    │    │     
+────┼────┼────
+    │    │     
+
+this is ur turn Ankit
+Please Enter postion : 3
+ x  │    │  0  
+────┼────┼────
+    │    │     
+────┼────┼────
+    │    │     
+
+this is ur turn Shubham
+Please Enter postion : 9
+ x  │    │  0  
+────┼────┼────
+    │    │     
+────┼────┼────
+    │    │  x  
+
+this is ur turn Ankit
+Please Enter postion : 5
+ x  │    │  0  
+────┼────┼────
+    │ 0  │     
+────┼────┼────
+    │    │  x  
+
+this is ur turn Shubham
+Please Enter postion : 7
+ x  │    │  0  
+────┼────┼────
+    │ 0  │     
+────┼────┼────
+ x  │    │  x  
+
+this is ur turn Ankit
+Please Enter postion : 4
+ x  │    │  0  
+────┼────┼────
+ 0  │ 0  │     
+────┼────┼────
+ x  │    │  x  
+
+this is ur turn Shubham
+Please Enter postion : 8
+ x  │    │  0  
+────┼────┼────
+ 0  │ 0  │     
+────┼────┼────
+ x  │ x  │  x  
+
+
+Hurray !!, Shubham you win ♥♥
